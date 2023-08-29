@@ -39,6 +39,6 @@ class UserController extends Controller {
         $user = User::findOrFail($id);
         $userAuthorizationService->checkAuthorization($user);
         $user->delete();
-        return response()->json(['message' => 'User deleted successfully']);
+        return response()->json(['message' => 'User deleted successfully!']);
     }
 }
