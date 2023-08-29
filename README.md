@@ -56,7 +56,7 @@ http://localhost/api/
 
 Diagrama DER da API definindo tabelas utilizadas e  seus relacionamentos no banco de dados.
 
-![DER](/employeersAndDepart/employeesAndDepart.png)
+![DER](/todolist/todolist.png)
 
 ---
 ## 3. Início Rápido
